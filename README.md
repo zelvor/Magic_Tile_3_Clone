@@ -10,3 +10,6 @@ Additionally, there may be auxiliary components such as Prestart or components t
 ## Suggested improvement
 You could consider adding an item that slows down the tempo (both the song's speed and the falling speed of the notes).
 This item could be a power-up or booster that players can collect or activate during gameplay. When activated, it would temporarily slow down the tempo of the song and the falling speed of the notes, providing players with a temporary advantage and making it easier for them to complete the tiles.
+
+
+Itch.io: https://zelvor.itch.io/magic-tiles-clone
